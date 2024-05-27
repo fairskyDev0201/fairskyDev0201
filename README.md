@@ -44,14 +44,5 @@
 </p>
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairskyDev0201&show_icons=true&theme=tokyonight)](https://github.com/fairskyDev0201/)&ensp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairskyDev0201&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ----
-
-<div align="center">
-  <samp>View Count</samp>
-  <br />
-  <img src="https://profile-counter.glitch.me/{fairskyDev0201}/count.svg" alt="visitor count" />
-</div>
